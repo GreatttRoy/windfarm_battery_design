@@ -1,5 +1,5 @@
-# windfarm_battery_design
 # Welcome to Lu Jiaming's GitHub
+# Windfarm Battery Design
 
 大家好这里是卢嘉铭，欢迎来到我的github，第一篇开源的算法是我的毕业设计。这是我第一次开源，我想开源很久了，终于因为毕设开始了这第一步。希望这是我人生开源征途开始的一小步，而不是终章。 <br />
 毕业设计的题目为“风电场储能运行方案设计”。 <br />
